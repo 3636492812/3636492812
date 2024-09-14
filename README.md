@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @3636492812
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| 这个作业属于哪个课程 |[计科2班](https://edu.cnblogs.com/campus/gdgy/CSGrade22-12) |
+| ----------------- |--------------- |
+| 这个作业要求在哪里| [作业要求](https://edu.cnblogs.com/campus/gdgy/CSGrade22-12/homework/13220) |
+| 这个作业的目标 | < 设计一个论文查重算法，给出一个原文文件和一个在这份原文上经过了增删改的抄袭版论文的文件，在答案文件中输出其重复率 > |
 
-<!---
-3636492812/3636492812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 自我介绍
+大家好，我是阿依努尔.麦麦提艾麦尔，目前在读于在广东工业大学，22级计算机学院计算机科学与技术1班。我对学习充满热情，并且一直致力于在这个领域不断学习和成长。我擅长拍照，跳舞。并且乐于与他人分享我的知识和经验。
+我喜欢听歌，这不仅让我能够放松身心，也让我有机会结识志同道合的朋友。我相信，生活中的美好往往来自于不断的探索和尝试。
+我期待在这里与大家相遇，无论是分享经验、交流想法，还是一起探索新的兴趣，我都感到非常兴奋。希望我们能够一起成长，共同创造更多美好的回忆。
