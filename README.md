@@ -1,4 +1,4 @@
-| 这个作业属于哪个课程 |[计科2班](https://edu.cnblogs.com/campus/gdgy/CSGrade22-12) |
+| 这个作业属于哪个课程 |[计科1班](https://edu.cnblogs.com/campus/gdgy/CSGrade22-12) |
 | ----------------- |--------------- |
 | 这个作业要求在哪里| [作业要求](https://edu.cnblogs.com/campus/gdgy/CSGrade22-12/homework/13220) |
 | 这个作业的目标 | < 设计一个论文查重算法，给出一个原文文件和一个在这份原文上经过了增删改的抄袭版论文的文件，在答案文件中输出其重复率 > |
